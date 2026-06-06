@@ -1,8 +1,8 @@
 [
   {
     "datetime": "2026-05-19T21:30",
-    "principaux": ["Tous"],
-    "secondaires": ["Tous"],
+    "principaux": ["00"],
+    "secondaires": ["00"],
     "interaction": "Début de l'aventure",
     "commentaire": "Création de l'île des copains.",
 
