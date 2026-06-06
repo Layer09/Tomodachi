@@ -1,8 +1,8 @@
 [
   {
     "id": "00",
-    "prenom": "Tous",
-    "icone": "assets/mii-icons/00-Tous.png"
+    "prenom": "/",
+    "icone": "assets/mii-icons/00-Aucun.png"
   },
   {
     "id": "01",
