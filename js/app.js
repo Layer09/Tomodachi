@@ -25,7 +25,7 @@ async function loadNews(){
     const miis = await loadMiis();
 
     const folders = [
-        "2026-06-01"
+        "2026-05-19"
     ];
 
     for(const folder of folders){
