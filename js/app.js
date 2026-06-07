@@ -34,9 +34,15 @@ async function loadNews() {
 
     const news = await response.json();
 
-    // Tri décroissant (plus récent → plus ancien)
     news.sort((a, b) => {
-        return new Date(b.datetime) - new Date(a.datetime);
+
+        const dateA = Date.parse(a.datetime);
+        const dateB = Date.parse(b.datetime);
+
+        if (isNaN(dateA)) return 1;
+        if (isNaN(dateB)) return -1;
+
+        return dateB - dateA;
     });
 
     news.forEach(item => {
