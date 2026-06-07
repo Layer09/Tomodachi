@@ -1,5 +1,44 @@
 [
   {
+    "datetime": "2026-05-06T22:30",
+    "principaux": ["00"],
+    "secondaires": ["00"],
+    "interaction": "Début de l'aventure",
+    "commentaire": "Création de l'île des copains.",
+
+    "media": []
+  },
+  {
+    "datetime": "2026-05-06T23:19",
+    "principaux": ["03", "04"],
+    "secondaires": ["00"],
+    "interaction": "Crush",
+    "commentaire": "Yann a un coup de foudre pour Aloïsse.",
+
+    "media": [
+      "2026-05-06_23-19.mp4"]
+  },
+  {
+    "datetime": "2026-05-07T23:26",
+    "principaux": ["03", "04"],
+    "secondaires": ["00"],
+    "interaction": "Séduction",
+    "commentaire": "Yann veut protéger Aloïsse à tout prix.",
+
+    "media": [
+      "2026-05-07_23-26.mp4"]
+  },
+  {
+    "datetime": "2026-05-07T23:40",
+    "principaux": ["06", "05"],
+    "secondaires": ["00"],
+    "interaction": "Crush",
+    "commentaire": "Esteban tombe amoureux d'Anna.",
+
+    "media": [
+      "2026-05-07_23-40.mp4"]
+  },
+  {
     "datetime": "2026-05-08T21:17",
     "principaux": ["03", "04"],
     "secondaires": ["00"],
@@ -58,5 +97,15 @@
 
     "media": [
       "2026-05-08_23-56.mp4"]
+  },
+  {
+    "datetime": "2026-05-09T00:32",
+    "principaux": ["06", "05"],
+    "secondaires": ["00"],
+    "interaction": "Lampes torches",
+    "commentaire": "Anna et Esteban communiquent.",
+
+    "media": [
+      "2026-05-09_00-32.mp4"]
   }
 ]

@@ -20,26 +20,27 @@ async function loadMiis(){
     return await response.json();
 }
 
-async function loadNews(){
+async function loadNews() {
 
     const miis = await loadMiis();
 
-    const folders = [
-        "2026-05-06","2026-05-07","2026-05-08"//,"2026-05-06","2026-05-06","2026-05-06","2026-05-06","2026-05-06","2026-05-06","2026-05-06","2026-05-06",
-    ];
+    const response = await fetch("data/news/news.json");
 
-    for(const folder of folders){
-
-        const response =
-        await fetch(`data/news/${folder}/news.json`);
-
-        const news = await response.json();
-
-        for(const item of news){
-
-            displayNews(item, folder, miis);
-        }
+    if (!response.ok) {
+        throw new Error(
+            `Impossible de charger news.json (${response.status})`
+        );
     }
+
+    const news = await response.json();
+
+    news.sort((a, b) =>
+        new Date(b.datetime) - new Date(a.datetime)
+    );
+
+    news.forEach(item => {
+        displayNews(item, miis);
+    });
 }
 
 function getMii(id, miis){
@@ -47,7 +48,7 @@ function getMii(id, miis){
     return miis.find(m=>m.id===id);
 }
 
-function displayNews(news, folder, miis){
+function displayNews(news, miis){
 
     const card = document.createElement("div");
 
@@ -58,7 +59,7 @@ function displayNews(news, folder, miis){
     news.media.forEach(file=>{
 
         const path =
-        `data/news/${folder}/${file}`;
+        `data/news/medias/${file}`;
 
         if(file.endsWith(".mp4")){
 
