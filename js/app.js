@@ -93,34 +93,44 @@ function displayNews(news, miis){
 
     <p>${news.commentaire}</p>
 
-    <h4>Principaux</h4>
+    <h4>Personnes principales</h4>
 
     <div class="people">
-        ${news.principaux.map(id=>{
+        const principauxHTML = news.principaux
+            .filter(id => id !== "00")
+            .map(id => {
 
-            const mii = getMii(id,miis);
+                const mii = getMii(id, miis);
 
-            return `
-            <div class="person">
-                <img src="${mii.icone}">
-                ${mii.prenom}
-            </div>`;
-        }).join("")}
+                if (!mii) return "";
+
+                return '
+                <div class="person">
+                    <img src="${mii.icone}">
+                    ${mii.prenom}
+                </div>';
+            })
+            .join("");
     </div>
 
-    <h4>Secondaires</h4>
+    <h4>Personnes secondaires</h4>
 
     <div class="people">
-        ${news.secondaires.map(id=>{
+        const secondairesHTML = news.secondaires
+            .filter(id => id !== "00")
+            .map(id => {
 
-            const mii = getMii(id,miis);
+                const mii = getMii(id, miis);
 
-            return `
-            <div class="person">
-                <img src="${mii.icone}">
-                ${mii.prenom}
-            </div>`;
-        }).join("")}
+                if (!mii) return "";
+
+                return '
+                <div class="person">
+                    <img src="${mii.icone}">
+                    ${mii.prenom}
+                </div>';
+            })
+            .join("");
     </div>
 
     <div class="gallery">
