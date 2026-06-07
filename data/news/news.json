@@ -458,10 +458,190 @@
     "datetime": "2026-05-17T22:50",
     "principaux": ["06","01"],
     "secondaires": ["05"],
-    "interaction": "Coiffure",
-    "commentaire": "Laurana rejoint Esteban et Anna. (Cette réponse est très peu réalise)",
+    "interaction": "Colocation",
+    "commentaire": "Laurana rejoint Esteban et Anna.\n(Cette réponse est très peu réalise)",
     "media": [
       "2026-05-17_22-50.mp4",
       "2026-05-17_22-50.jpg"]
+  },
+  {
+    "datetime": "2026-05-20T21:36",
+    "principaux": ["05","06"],
+    "secondaires": ["00"],
+    "interaction": "Relations",
+    "commentaire": "Anna et Esteban profitent d'une sortie à la plage.",
+    "media": [
+      "2026-05-20_21-36.mp4"]
+  },
+  {
+    "datetime": "2026-05-20T22:36",
+    "principaux": ["05","06"],
+    "secondaires": ["00"],
+    "interaction": "Marriage",
+    "commentaire": "Anna demande Esteban en mariage.",
+    "media": [
+      "2026-05-20_22-36_1.jpg",
+      "2026-05-20_22-36.mp4",
+      "2026-05-20_22-36_2.jpg",
+      "2026-05-20_22-36_3.jpg",
+      "2026-05-20_22-36_4.jpg",
+      "2026-05-20_22-36_5.jpg",
+      "2026-05-20_22-36_6.jpg",
+      "2026-05-20_22-36_7.jpg",
+      "2026-05-20_22-36_8.jpg",
+      "2026-05-20_22-36_9.jpg"]
+  },
+  {
+    "datetime": "2026-05-20T23:25",
+    "principaux": ["04","05"],
+    "secondaires": ["03"],
+    "interaction": "Discussion",
+    "commentaire": "Anna et Aloïsse parlent de Yann.",
+    "media": [
+      "2026-05-20_23-25.jpg"]
+  },
+  {
+    "datetime": "2026-05-20T23:26",
+    "principaux": ["03","15"],
+    "secondaires": ["00"],
+    "interaction": "Discussion",
+    "commentaire": "La secte des jeux-vidéos.",
+    "media": [
+      "2026-05-20_23-26.jpg"]
+  },
+  {
+    "datetime": "2026-05-20T23:32",
+    "principaux": ["16","04"],
+    "secondaires": ["00"],
+    "interaction": "Discussion",
+    "commentaire": "Une véritable question d'histoire.",
+    "media": [
+      "2026-05-20_23-32.jpg"]
+  },
+  {
+    "datetime": "2026-05-21T23:02",
+    "principaux": ["17","19"],
+    "secondaires": ["00"],
+    "interaction": "Discussion",
+    "commentaire": "Il est peut-être temps de convertir des gens ? (non)",
+    "media": [
+      "2026-05-21_23-02.jpg"]
+  },
+  {
+    "datetime": "2026-05-21T23:50",
+    "principaux": ["01","04"],
+    "secondaires": ["05"],
+    "interaction": "Amitié",
+    "commentaire": "Thème de conversation très réaliste.",
+    "media": [
+      "2026-05-21_23-50.jpg"]
+  },
+  {
+    "datetime": "2026-05-21T23:51",
+    "principaux": ["10","01"],
+    "secondaires": ["00"],
+    "interaction": "Blague",
+    "commentaire": "Sans déconner ?",
+    "media": [
+      "2026-05-21_23-51.mp4"]
+  },
+  {
+    "datetime": "2026-05-21T23:54",
+    "principaux": ["15","10"],
+    "secondaires": ["01"],
+    "interaction": "Discussion",
+    "commentaire": "Gab et Maxime parlent de Laurana.",
+    "media": [
+      "2026-05-21_23-54.jpg"]
+  },
+  {
+    "datetime": "2026-05-21T23:59",
+    "principaux": ["06","05"],
+    "secondaires": ["00"],
+    "interaction": "Relations",
+    "commentaire": "Trop mignons.",
+    "media": [
+      "2026-05-21_23-59.mp4"]
+  },
+  {
+    "datetime": "2026-05-22T00:28",
+    "principaux": ["06","05"],
+    "secondaires": ["00"],
+    "interaction": "Relations",
+    "commentaire": "Esteban et Anna envisagent d'avoir un bébé.",
+    "media": [
+      "2026-05-22_00-28.jpg"]
+  },
+  {
+    "datetime": "2026-05-22T00:29",
+    "principaux": ["12","16"],
+    "secondaires": ["00"],
+    "interaction": "Colocation",
+    "commentaire": "Andy rejoint les collabos.",
+    "media": [
+      "2026-05-22_00-29.mp4"]
+  },
+  {
+    "datetime": "2026-05-22T00:31",
+    "principaux": ["07"],
+    "secondaires": ["00"],
+    "interaction": "Nourriture",
+    "commentaire": "C'est si triste.",
+    "media": [
+      "2026-05-22_00-31.mp4"]
+  },
+  {
+    "datetime": "2026-05-23T12:25",
+    "principaux": ["04","03"],
+    "secondaires": ["00"],
+    "interaction": "Relations",
+    "commentaire": "Adorable.",
+    "media": [
+      "2026-05-23_12-25.mp4"]
+  },
+  {
+    "datetime": "2026-05-23T12:31",
+    "principaux": ["05","06"],
+    "secondaires": ["00"],
+    "interaction": "Relations",
+    "commentaire": "Il faut le dire plus souvent aux gens qu'on aime.",
+    "media": [
+      "2026-05-23_12-31.mp4"]
+  },
+  {
+    "datetime": "2026-05-23T16:17",
+    "principaux": ["01","13"],
+    "secondaires": ["02"],
+    "interaction": "Discussion",
+    "commentaire": "Ils sont si vieux que ça ?",
+    "media": [
+      "2026-05-23_16-17.jpg"]
+  },
+  {
+    "datetime": "2026-05-23T16:18",
+    "principaux": ["04","14","16"],
+    "secondaires": ["18"],
+    "interaction": "Discussion",
+    "commentaire": "Aloïsse et Gwenola parlent de Mike pendant qu'Andy les espionne.",
+    "media": [
+      "2026-05-23_16-18.jpg"]
+  },
+  {
+    "datetime": "2026-05-23T16:42",
+    "principaux": ["18","17"],
+    "secondaires": ["00"],
+    "interaction": "Discussion",
+    "commentaire": "Mike est un psycopathe et Pauline est sa victime.",
+    "media": [
+      "2026-05-23_16-42.mp4"]
+  },
+  {
+    "datetime": "2026-05-23T17:27",
+    "principaux": ["02","07"],
+    "secondaires": ["00"],
+    "interaction": "Discussion",
+    "commentaire": "Drôle d'envie.",
+    "media": [
+      "2026-05-23_17-27.mp4"]
   }
 ]
