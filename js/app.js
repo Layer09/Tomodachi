@@ -128,7 +128,7 @@ function displayNews(news, miis){
     </div>
     `;
 
-    container.prepend(card);
+    //container.prepend(card);
 }
 
 loadNews();
