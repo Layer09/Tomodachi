@@ -68,11 +68,11 @@ header{
 }
 
 .gallery img{
-    width:250px;
+    width:100%;
     border-radius:10px;
 }
 
 .gallery video{
-    width:350px;
+    width:100%;
     border-radius:10px;
 }
