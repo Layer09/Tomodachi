@@ -150,8 +150,8 @@
     "interaction": "Relations",
     "commentaire": "Maxime se pose des question sur Aloïsse.",
     "media": [
-      "2026-05-10_15-19_1.mp4",
-      "2026-05-10_15-19_2.mp4"]
+      "2026-05-10_15-19_1.jpg",
+      "2026-05-10_15-19_2.jpg"]
   },
   {
     "datetime": "2026-05-10T15:27",
@@ -404,7 +404,7 @@
     "datetime": "2026-05-14T23:53",
     "principaux": ["03"],
     "secondaires": ["04","10","02"],
-    "interaction": "Discussion",
+    "interaction": "Amitié",
     "commentaire": "Une belle preuve d'amitié.",
     "media": [
       "2026-05-14_23-53.jpg"]
@@ -477,7 +477,7 @@
     "datetime": "2026-05-20T22:36",
     "principaux": ["05","06"],
     "secondaires": ["00"],
-    "interaction": "Marriage",
+    "interaction": "Mariage",
     "commentaire": "Anna demande Esteban en mariage.",
     "media": [
       "2026-05-20_22-36_1.jpg",
@@ -513,7 +513,7 @@
     "datetime": "2026-05-20T23:32",
     "principaux": ["16","04"],
     "secondaires": ["00"],
-    "interaction": "Discussion",
+    "interaction": "Dénoncer",
     "commentaire": "Une véritable question d'histoire.",
     "media": [
       "2026-05-20_23-32.jpg"]
@@ -522,7 +522,7 @@
     "datetime": "2026-05-21T23:02",
     "principaux": ["17","19"],
     "secondaires": ["00"],
-    "interaction": "Discussion",
+    "interaction": "Dénoncer",
     "commentaire": "Il est peut-être temps de convertir des gens ? (non)",
     "media": [
       "2026-05-21_23-02.jpg"]
@@ -612,7 +612,7 @@
     "datetime": "2026-05-23T16:17",
     "principaux": ["01","13"],
     "secondaires": ["02"],
-    "interaction": "Discussion",
+    "interaction": "Dénoncer",
     "commentaire": "Ils sont si vieux que ça ?",
     "media": [
       "2026-05-23_16-17.jpg"]
@@ -639,9 +639,304 @@
     "datetime": "2026-05-23T17:27",
     "principaux": ["02","07"],
     "secondaires": ["00"],
-    "interaction": "Discussion",
+    "interaction": "Dénoncer",
     "commentaire": "Drôle d'envie.",
     "media": [
-      "2026-05-23_17-27.mp4"]
+      "2026-05-23_17-27.jpg"]
+  },
+  {
+    "datetime": "2026-05-24T18:49",
+    "principaux": ["13","18","02","05","07","19","12","15"],
+    "secondaires": ["00"],
+    "interaction": "Discussion",
+    "commentaire": "Sacré kidnapping. Gab, ne change pas.",
+    "media": [
+      "2026-05-24_18-49.mp4"]
+  },
+  {
+    "datetime": "2026-05-24T18:50",
+    "principaux": ["20","04"],
+    "secondaires": ["07","03"],
+    "interaction": "Dénoncer",
+    "commentaire": "Tentative de corruption.",
+    "media": [
+      "2026-05-24_18-50.jpg"]
+  },
+  {
+    "datetime": "2026-05-24T18:51",
+    "principaux": ["01","05","06"],
+    "secondaires": ["20"],
+    "interaction": "Dénoncer",
+    "commentaire": "On doit s'inquiéter ?",
+    "media": [
+      "2026-05-24_18-51.jpg"]
+  },
+  {
+    "datetime": "2026-05-24T19:13",
+    "principaux": ["21"],
+    "secondaires": ["05"],
+    "interaction": "Discussion",
+    "commentaire": "Malo, ce comportement est bizarre, tu le sais ?",
+    "media": [
+      "2026-05-24_19-13.mp4"]
+  },
+  {
+    "datetime": "2026-05-24T19:21",
+    "principaux": ["21","20"],
+    "secondaires": ["00"],
+    "interaction": "Discussion",
+    "commentaire": "Même dans le jeu ils parlent de leur école adorée.",
+    "media": [
+      "2026-05-24_19-21.jpg"]
+  },
+  {
+    "datetime": "2026-05-24T19:56",
+    "principaux": ["23","02"],
+    "secondaires": ["00"],
+    "interaction": "Discussion",
+    "commentaire": "Bah alors Tristan, il ne faut pas parler comme ça !",
+    "media": [
+      "2026-05-24_19-56.jpg"]
+  },
+  {
+    "datetime": "2026-05-24T19:57",
+    "principaux": ["23","03"],
+    "secondaires": ["00"],
+    "interaction": "Discussion",
+    "commentaire": "Tristan doit apprécier ce genre de personnes.",
+    "media": [
+      "2026-05-24_19-57.jpg"]
+  },
+  {
+    "datetime": "2026-05-24T19:58",
+    "principaux": ["23","05"],
+    "secondaires": ["00"],
+    "interaction": "Dénoncer",
+    "commentaire": "On a toujours su que Tristan était borderline... mais là...",
+    "media": [
+      "2026-05-24_19-58.jpg"]
+  },
+  {
+    "datetime": "2026-05-24T20:04",
+    "principaux": ["23","06","16"],
+    "secondaires": ["00"],
+    "interaction": "Dénoncer",
+    "commentaire": "Les passions de Tristan sont... spéciales.",
+    "media": [
+      "2026-05-24_20-04.jpg"]
+  },
+  {
+    "datetime": "2026-05-25T22:24",
+    "principaux": ["07","15"],
+    "secondaires": ["16","20"],
+    "interaction": "Couple",
+    "commentaire": "Mélyssa, bourreau des cœurs (elle a rejetté les 3).",
+    "media": [
+      "2026-05-25_22-24.jpg"]
+  },
+  {
+    "datetime": "2026-05-25T22:31",
+    "principaux": ["02","10"],
+    "secondaires": ["12","18"],
+    "interaction": "Couple",
+    "commentaire": "Sarah accepte de sortir avec Maxime.",
+    "media": [
+      "2026-05-25_22-31_1.jpg",
+      "2026-05-25_22-31_2.jpg"
+    ]
+  },
+  {
+    "datetime": "2026-05-25T23:25",
+    "principaux": ["02","12"],
+    "secondaires": ["00"],
+    "interaction": "Amitié",
+    "commentaire": "Sarah a peut-être été un peu trop honnête avec Nolann.",
+    "media": [
+      "2026-05-25_23-25.mp4",
+      "2026-05-25_23-25.jpg"]
+  },
+  {
+    "datetime": "2026-05-25T23:38",
+    "principaux": ["15","03"],
+    "secondaires": ["00"],
+    "interaction": "Dénoncer",
+    "commentaire": "Ce thème est très récurrent, je trouve.",
+    "media": [
+      "2026-05-25_23-38.jpg"]
+  },
+  {
+    "datetime": "2026-05-25T23:42",
+    "principaux": ["22","06","19"],
+    "secondaires": ["00"],
+    "interaction": "Discussion",
+    "commentaire": "Toujours aussi réaliste.",
+    "media": [
+      "2026-05-25_23-42.jpg"]
+  },
+  {
+    "datetime": "2026-05-27T22:07",
+    "principaux": ["01","19"],
+    "secondaires": ["23","11"],
+    "interaction": "Couple",
+    "commentaire": "Laurana s'est fait recaler par Vincent. Tristan et Héloïse ne l'ont pas laissée seule dans cette merde.",
+    "media": [
+      "2026-05-27_22-07.jpg"]
+  },
+  {
+    "datetime": "2026-05-27T23:30",
+    "principaux": ["19","11"],
+    "secondaires": ["00"],
+    "interaction": "Dénoncer",
+    "commentaire": "Ah, la nostalgie.",
+    "media": [
+      "2026-05-27_23-30.jpg"]
+  },
+  {
+    "datetime": "2026-05-27T23:35",
+    "principaux": ["23","10"],
+    "secondaires": ["00"],
+    "interaction": "Dénoncer",
+    "commentaire": "Ils mettent leur plan a exécution.",
+    "media": [
+      "2026-05-27_23-35.jpg"]
+  },
+  {
+    "datetime": "2026-05-27T23:38",
+    "principaux": ["22", "23"],
+    "secondaires": ["00"],
+    "interaction": "Lampadaire",
+    "commentaire": "Erwan et Tristan font jour-nuit.",
+    "media": [
+      "2026-05-27_23-38.mp4"]
+  },
+  {
+    "datetime": "2026-05-27T23:52",
+    "principaux": ["22", "11"],
+    "secondaires": ["00"],
+    "interaction": "Crush",
+    "commentaire": "Erwan en crush sur Héloïse.",
+    "media": [
+      "2026-05-27_23-52.mp4"]
+  },
+  {
+    "datetime": "2026-05-27T23:54",
+    "principaux": ["06", "05"],
+    "secondaires": ["00"],
+    "interaction": "Relations",
+    "commentaire": "Esteban essaye d'impressionner sa femme.",
+    "media": [
+      "2026-05-27_23-54.mp4"]
+  },
+  {
+    "datetime": "2026-05-28T22:39",
+    "principaux": ["18", "17"],
+    "secondaires": ["00"],
+    "interaction": "Relations",
+    "commentaire": "Mike se pose des questions concernant Pauline.",
+    "media": [
+      "2026-05-28_22-39.jpg"]
+  },
+  {
+    "datetime": "2026-05-28T23:06",
+    "principaux": ["10", "13", "12"],
+    "secondaires": ["00"],
+    "interaction": "Dénoncer",
+    "commentaire": "C'est sûr que ça change des vies...",
+    "media": [
+      "2026-05-28_23-06.jpg"]
+  },
+  {
+    "datetime": "2026-05-28T23:26",
+    "principaux": ["22"],
+    "secondaires": ["00"],
+    "interaction": "Dénoncer",
+    "commentaire": "On pense connaître les gens.",
+    "media": [
+      "2026-05-28_23-26_1.jpg",
+      "2026-05-28_23-26_2.jpg"]
+  },
+  {
+    "datetime": "2026-05-29T22:53",
+    "principaux": ["03","17"],
+    "secondaires": ["00"],
+    "interaction": "Dispute",
+    "commentaire": "Yann et Pauline se réconcilient après une dispute.",
+    "media": [
+      "2026-05-29_22-53.jpg"]
+  },
+  {
+    "datetime": "2026-06-04T00:02",
+    "principaux": ["18"],
+    "secondaires": ["03","07","14","17","20","23"],
+    "interaction": "Reportage",
+    "commentaire": "Meilleur reportage possible.",
+    "media": [
+      "2026-06-04_00-02_1.jpg",
+      "2026-06-04_00-02_2.jpg",
+      "2026-06-04_00-02_3.jpg"]
+  },
+  {
+    "datetime": "2026-06-04T00:05",
+    "principaux": ["02","10"],
+    "secondaires": ["00"],
+    "interaction": "Mariage",
+    "commentaire": "Sarah demande Maxime en mariage.",
+    "media": [
+      "2026-06-04_00-05.jpg",
+      "2026-06-04_00-05.mp4"]
+  },
+  {
+    "datetime": "2026-06-04T00:12",
+    "principaux": ["02","10","12","16","13"],
+    "secondaires": ["00"],
+    "interaction": "Colocation",
+    "commentaire": "Ça me fait penser à un certain meme...",
+    "media": [
+      "2026-06-04_00-12.jpg"]
+  },
+  {
+    "datetime": "2026-06-04T00:13",
+    "principaux": ["14","13"],
+    "secondaires": ["00"],
+    "interaction": "Mariage",
+    "commentaire": "Gwenola demande Gwendall en mariage.",
+    "media": [
+      "2026-06-04_00-13_1.jpg",
+      "2026-06-04_00-13_2.jpg",
+      "2026-06-04_00-13_3.jpg",
+      "2026-06-04_00-13_4.jpg",
+      "2026-06-04_00-13_5.jpg",
+      "2026-06-04_00-13_6.jpg",
+      "2026-06-04_00-13_7.jpg",
+      "2026-06-04_00-13_8.jpg",
+      "2026-06-04_00-13_9.jpg",
+      "2026-06-04_00-13_10.jpg"]
+  },
+  {
+    "datetime": "2026-06-05T14:35",
+    "principaux": ["17","18"],
+    "secondaires": ["16","20"],
+    "interaction": "Couple",
+    "commentaire": "Mike se fait recaler par Pauline. Andy et Alexis sont venus le soutenir.",
+    "media": [
+      "2026-06-05_14-35.mp4"]
+  },
+  {
+    "datetime": "2026-06-05T14:36",
+    "principaux": ["17","18"],
+    "secondaires": ["00"],
+    "interaction": "Couple",
+    "commentaire": "Mike retente sa chance... mais ça ne se passe pas très bien.",
+    "media": [
+      "2026-06-05_14-36.mp4"]
+  },
+  {
+    "datetime": "2026-06-05T14:40",
+    "principaux": ["22","11"],
+    "secondaires": ["00"],
+    "interaction": "Couple",
+    "commentaire": "Erwan tente le coup avec Héloïse, mais se prend un râteau.",
+    "media": [
+      "2026-06-05_14-40.mp4"]
   }
 ]
