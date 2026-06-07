@@ -938,5 +938,99 @@
     "commentaire": "Erwan tente le coup avec Héloïse, mais se prend un râteau.",
     "media": [
       "2026-06-05_14-40.mp4"]
+  },
+  {
+    "datetime": "2026-06-05T15:09",
+    "principaux": ["08", "07"],
+    "secondaires": ["00"],
+    "interaction": "Crush",
+    "commentaire": "Oscar a un coup de foudre pour Mélyssa.",
+    "media": [
+      "2026-06-05_15-09.mp4"]
+  },
+  {
+    "datetime": "2026-06-05T15:09",
+    "principaux": ["08", "07"],
+    "secondaires": ["00"],
+    "interaction": "Couple",
+    "commentaire": "Oscar tente sa chance avec Mélyssa... mais la bourreau des coeurs fait encore des ravages.",
+    "media": [
+      "2026-06-05_15-35_1.jpg",
+      "2026-06-05_15-35_2.jpg"]
+  },
+  {
+    "datetime": "2026-06-05T15:56",
+    "principaux": ["08", "07"],
+    "secondaires": ["00"],
+    "interaction": "Relations",
+    "commentaire": "Mélyssa offre une broderie à Oscar, les tensions se sont calmées.",
+    "media": [
+      "2026-06-05_15-56.jpg"]
+  },
+  {
+    "datetime": "2026-06-05T17:09",
+    "principaux": ["07", "08"],
+    "secondaires": ["00"],
+    "interaction": "Crush",
+    "commentaire": "Mélyssa a un crush sur Oscar... tu aimes te compliquer la vie, non ?",
+    "media": [
+      "2026-06-05_17-09.mp4"]
+  },
+  {
+    "datetime": "2026-06-05T18:52",
+    "principaux": ["15", "10"],
+    "secondaires": ["02","12","16","14","13"],
+    "interaction": "Collocation",
+    "commentaire": "Gab rejoint les collabos.",
+    "media": [
+      "2026-06-05_18-52.mp4",
+      "2026-06-05_18-52.jpg"]
+  },
+  {
+    "datetime": "2026-06-06T01:02",
+    "principaux": ["07"],
+    "secondaires": ["08"],
+    "interaction": "Rêve",
+    "commentaire": "Mélyssa rêve de sortir avec Oscar.",
+    "media": [
+      "2026-06-06_01-02.mp4"]
+  },
+  {
+    "datetime": "2026-06-06T01:25",
+    "principaux": ["15"],
+    "secondaires": ["10"],
+    "interaction": "Dénoncer",
+    "commentaire": "C'est donc pour ça qu'ils sont potes...",
+    "media": [
+      "2026-06-06_01-25.jpg"]
+  },
+  {
+    "datetime": "2026-06-06T21:05",
+    "principaux": ["02"],
+    "secondaires": ["13","12","16","10","14","15"],
+    "interaction": "Discussion",
+    "commentaire": "Le vote pour le meilleur nazi parmis les collabos est unanime.",
+    "media": [
+      "2026-06-06_21-05_1.jpg",
+      "2026-06-06_21-05.mp4",
+      "2026-06-06_21-05_2.jpg"]
+  },
+  {
+    "datetime": "2026-06-06T21:06",
+    "principaux": ["02"],
+    "secondaires": ["14"],
+    "interaction": "Nourriture",
+    "commentaire": "Pauvre Sarah.",
+    "media": [
+      "2026-06-06_21-06.mp4"]
+  },
+  {
+    "datetime": "2026-06-06T21:55",
+    "principaux": ["11","12"],
+    "secondaires": ["00"],
+    "interaction": "Crush",
+    "commentaire": "Héloïse tombe littéralement sous le charme de Nolann.",
+    "media": [
+      "2026-06-06_21-55.mp4"]
   }
 ]
