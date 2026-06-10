@@ -10,7 +10,7 @@ table {
 }
 
 th, td {
-    width: 80px;        /* largeur fixe */
+    width: 60px;        /* largeur fixe */
     height: 40px;
     text-align: center;
     vertical-align: middle;
@@ -18,7 +18,7 @@ th, td {
 }
 
 td {
-    width: 80px;
+    width: 60px;
     height: 40px;
     text-align: center;
     vertical-align: middle;
@@ -32,7 +32,7 @@ td {
 }
 
 .cell-text {
-    font-size: 15px;
+    font-size: 13px;
     display: block;
 
     white-space: normal;      /* autorise les retours à la ligne */
