@@ -33,17 +33,26 @@ function buildTable(){
 
         miis.forEach(m2=>{
 
-            let value = "-";
+            let color = "#FFFFFF";
+            let text = "";
 
             if(
                 relations[m1.id] &&
                 relations[m1.id][m2.id]
             ){
-                value =
-                relations[m1.id][m2.id].niveau;
+                color =
+                relations[m1.id][m2.id].couleur;
+
+                text =
+                relations[m1.id][m2.id].description;
             }
 
-            html += `<td>${value}</td>`;
+            html += `
+            <td
+                style="background:${color};"
+                title="${text}"
+            >
+            </td>`;
         });
 
         html += "</tr>";
