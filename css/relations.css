@@ -18,7 +18,12 @@ th, td {
 }
 
 td {
-    position: relative;
+    width: 80px;
+    height: 40px;
+    text-align: center;
+    vertical-align: middle;
+
+    overflow: hidden;
 }
 
 .selectors{
@@ -28,7 +33,10 @@ td {
 .cell-text {
     font-size: 10px;
     display: block;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+
+    white-space: normal;      /* autorise les retours à la ligne */
+    word-wrap: break-word;    /* coupe les mots longs si besoin */
+    overflow-wrap: break-word;
+
+    line-height: 1.1;
 }
