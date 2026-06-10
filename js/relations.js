@@ -15,23 +15,25 @@ async function init(){
 
 function buildTable(){
 
+    const filteredMiis = miis.filter(m => m.id !== "00");
+
     const table =
     document.getElementById("relationTable");
 
     let html = "<tr><th></th>";
 
-    miis.forEach(m=>{
+    filteredMiis.forEach(m=>{
 
         html += `<th>${m.prenom}</th>`;
     });
 
     html += "</tr>";
 
-    miis.forEach(m1=>{
+    filteredMiis.forEach(m1=>{
 
         html += `<tr><th>${m1.prenom}</th>`;
 
-        miis.forEach(m2=>{
+        filteredMiis.forEach(m2=>{
 
             let color = "#FFFFFF";
             let text = "";
@@ -52,6 +54,7 @@ function buildTable(){
                 style="background:${color};"
                 title="${text}"
             >
+                <span class="cell-text">${text}</span>
             </td>`;
         });
 
@@ -69,7 +72,7 @@ function buildSelectors(){
     const s2 =
     document.getElementById("mii2");
 
-    miis.forEach(m=>{
+    filteredMiis.forEach(m=>{
 
         s1.innerHTML +=
         `<option value="${m.id}">
