@@ -22,6 +22,7 @@ td {
     height: 40px;
     text-align: center;
     vertical-align: middle;
+    border: 1px solid #000;
 
     overflow: hidden;
 }
@@ -31,7 +32,7 @@ td {
 }
 
 .cell-text {
-    font-size: 10px;
+    font-size: 15px;
     display: block;
 
     white-space: normal;      /* autorise les retours à la ligne */
