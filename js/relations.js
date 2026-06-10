@@ -82,7 +82,7 @@ function buildSelectors(){
         </option>`;
     });
 }
-
+/*
 document
 .getElementById("showRelation")
 .addEventListener("click", ()=>{
@@ -104,5 +104,5 @@ document
       `
     : "Aucune relation enregistrée";
 });
-
+*/
 init();
